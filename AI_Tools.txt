@@ -4,5 +4,5 @@ AI Universe: Discover the latest free AI tools for boosting productivity! This r
 1) Napkin AI - The visual AI for business storytelling
     Napkin turns your text into visuals so sharing your ideas is quick and effective.
         -- Best for Ppt logo themes and different diagramatical presentaion ideas.
-        
+    Url : https://www.napkin.ai/
  
